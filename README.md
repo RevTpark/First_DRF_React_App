@@ -2,6 +2,7 @@
 ## This blog app is my attempt at integrating [Django-REST](<https://www.django-rest-framework.org/>) with [React.js](<https://reactjs.org/docs/getting-started.html>) using documentations.
 This is a normal blog that supports Login, Registeration, Making a Post, Editing, Updating and Deleting. Again this is just more of a visual project and learning project so some things are incomplete.\
 The authentication is done by Django-REST Framework and Authorization using JWT. Frontend uses Axios Instance to communicate with backend.
+## Running Locally
 The app is not deployed yet. After cloning, App can be run locally using these commands in order:
 ```
 pip install requirements.txt
