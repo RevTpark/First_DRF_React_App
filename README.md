@@ -5,7 +5,7 @@ The authentication is done by Django-REST Framework and Authorization using JWT.
 ## Running Locally
 The app is not deployed yet. After cloning, App can be run locally using these commands in order:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 cat npm_requirements.txt | xargs npm install -g
 npm start
 py manage.py runserver
