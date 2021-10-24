@@ -20,7 +20,7 @@ Here new users can register themselves and start their journey with the app.
 <img width="960" alt="Register" src="https://user-images.githubusercontent.com/78678620/135620377-e0cb1592-09ea-40af-9a39-8f781abc4d22.png">
 
 ## Login In
-After making a new account Users can login in to their account. After loging in JWT kicks in and creates tokens for sessions of 5 minutes. Supported with refresh tokens.
+After making a new account Users can login in to their account. After logging in JWT kicks in and creates tokens for sessions of 5 minutes. Supported with refresh tokens.
 <img width="960" alt="Sign_In" src="https://user-images.githubusercontent.com/78678620/135620819-502962b5-04e3-4586-94e9-552629aa5c0e.png">
 
 ## Individual Post
